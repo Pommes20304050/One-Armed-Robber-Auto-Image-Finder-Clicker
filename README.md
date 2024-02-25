@@ -15,7 +15,9 @@ This Python script is specifically designed for the game "One-Armed Robber." It 
 - Required Python libraries (install using pip): 
   - `pip install pyautogui`
   - `pip install opencv-python`
-
+  - `pip install pywin32`
+  - `pip install keyboard`
+ 
 ## Usage
 
 1. Launch the game "One-Armed Robber."
